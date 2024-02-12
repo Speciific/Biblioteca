@@ -1,7 +1,7 @@
 Aplicația folosește interfețe grafice, folosind JavaSwing. S-a evidențiat o arhitectură de aplicație pe 3 niveluri:
-i. interfață (nivel prezentare) – interfața grafică;
-ii. logica aplicației (nivel logic) – domeniul problemei;
-iii. persistența datelor (nivel date) – repository;
+<br/>i. interfață (nivel prezentare) – interfața grafică;
+<br/>ii. logica aplicației (nivel logic) – domeniul problemei;
+<br/>iii. persistența datelor (nivel date) – repository;<br/>
 Accesul in cadrul aplicației se va face pe baza de: user si password.
 Interfața cuprinde elementele fundamentale ale graficii in Java: gestionari de poziționare, tratarea evenimentelor, interfețe de tip "Listener" si clase interne pentru gestionarea evenimentelor. 
 Aceasta include următoarele facilitați:
